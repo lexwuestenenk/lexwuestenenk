@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @lexwuestenenk
-- 👀 I’m interested in learning new technologies, 
-- 🌱 I’m currently learning nextjs, and studying in school
 - 📫 You can reach me through mail (lex.wuestenenk@hotmail.com) or on LinkedIn
 
 <!---
